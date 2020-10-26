@@ -1,0 +1,40 @@
+body {
+    background-image: url('./background.jpg') ;
+}
+
+
+.jumbotron {
+    margin: 0;
+}
+.jumbotron > h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(187, 14, 14);
+}
+
+.jumbotron > p {
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 24px;
+    color: darkblue;
+}
+
+.form-control {
+    width: 45%;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: large;
+}
+
+.form-control:hover {
+    background-color: aqua;
+}
+.btn-func {
+    width: 20%;
+    height: 50px;
+    font-size: 30px;
+    padding: 0;
+}
+
+section {
+    padding-top: 100px;
+}
